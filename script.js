@@ -1,7 +1,7 @@
 
 const perguntas = [
     {
-        pergunta: "Qual é o vetor responsável pela transmissão da dengue?",
+        pergunta: "Qual é o mosquito que transmissão da dengue?",
         respostas: [
             "Aedes albopictus",
             "Aedes aegypti",
@@ -28,22 +28,22 @@ const perguntas = [
         correta: 1
     },
     {
-        pergunta: "Como se chama o método de combate à dengue que envolve a liberação de mosquitos estéreis para diminuir a população?",
+        pergunta: "Além da dengue, o mosquito Aedes aegypti é responsável pela transmissão de quais outras doenças?",
         respostas: [
-            "Controle químico",
-            "Controle biológico",
-            "Controle genético",
+            "Gripe",
+            "Malária",
+            "Zika e Chikungunya",
         ],
         correta: 2
     },
     {
         pergunta: "Qual é o período de maior atividade do mosquito Aedes aegypti?",
         respostas: [
-            "Manhã e tarde",
-            "Noite e madrugada",
-            "Tarde e noite",
+            "Manhã",
+            "Tarde",
+            "Noite",
         ],
-        correta: 1
+        correta: 2
     },
     {
         pergunta: "Qual é a importância de eliminar pneus velhos e outros objetos que acumulam água?",
@@ -64,18 +64,18 @@ const perguntas = [
         correta: 1
     },
     {
-        pergunta: "O que é o método de nebulização utilizado no combate à dengue?",
+        pergunta: "Qual é o tempo entre a picada do mosquito e o aparecimento dos sintomas?",
         respostas: [
-            "Aplicação de larvicidas em água parada",
-            "Aplicação de inseticidas em áreas específicas",
-            "Uso de armadilhas para capturar mosquitos",
+            "24 horas",
+            "3 dias a 2 semanas",
+            "1 mês",
         ],
         correta: 1
     },
     {
         pergunta: "Quem é mais suscetível a complicações graves causadas pela dengue?",
         respostas: [
-            "Adultos saudáveis",
+            "Adultos",
             "Crianças",
             "Idosos",
         ],

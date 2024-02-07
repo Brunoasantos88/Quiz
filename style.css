@@ -34,8 +34,9 @@ main {
 
 header {
     margin-top: 64px;
-    padding-bottom: 24px;
+    padding-bottom: 20px;
     border-bottom: 1px solid var(--cor-4);
+    
 }
 
 header h1 {
@@ -53,6 +54,7 @@ header h1 {
     border: 1px solid var(--cor-4);
     border-radius: 6px;
     overflow: hidden;
+    font-size: 20px;
 }
 
 .quiz-item h3 {
@@ -86,7 +88,7 @@ header h1 {
 }
 
 .quiz-item dl dt {
-    font-size: 14px;
+    font-size: 20px;
     line-height: 24px;
     letter-spacing: 0;
     display: flex;
